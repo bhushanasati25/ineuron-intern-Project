@@ -11,8 +11,13 @@ the provided dataset.
 
 - The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building, and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 
+# Data set 
 
-## Commonds for creating virtual Env
+```bash
+https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
+```
+
+# Commonds for Creating Virtual ENV
 
 Install the virtualenv package
 
