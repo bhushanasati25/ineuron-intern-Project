@@ -1,5 +1,4 @@
 # ineuron-intern-Project
-ineuron - intern - Project 
 
 # Problem Statement
 
@@ -7,6 +6,11 @@ ineuron - intern - Project
  
 - The main goal is to predict the fares of the flights based on different factors available in
 the provided dataset.
+
+# Approach: 
+
+- The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building, and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
+
 
 ## Commonds for creating virtual Env
 
