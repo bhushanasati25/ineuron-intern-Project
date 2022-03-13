@@ -67,3 +67,7 @@ source env_name/bin/activate
 ```bash
 python3 -m flask run
 ```
+
+## Deployed Link 
+
+[Deployed Link](https://ffprediction.herokuapp.com/)
