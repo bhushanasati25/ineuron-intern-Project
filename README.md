@@ -72,6 +72,11 @@ source env_name/bin/activate
 python3 -m flask run
 ```
 
+## Tech Images
+
+- ![Tech](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Img/img.png)
+
+
 ## Project Deployed Link 
 
 - https://ffprediction.herokuapp.com/ 
