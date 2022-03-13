@@ -68,6 +68,8 @@ source env_name/bin/activate
 python3 -m flask run
 ```
 
-## Deployed Link 
+## Project Deployed Link 
+
+- https://ffprediction.herokuapp.com/ 
 
 [Deployed Link](https://ffprediction.herokuapp.com/)
