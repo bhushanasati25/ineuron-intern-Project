@@ -18,6 +18,19 @@ the provided dataset.
 ```bash
 https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 ```
+## Steps
+
+1.  Importing the Liberary
+2.  Reading Dataset
+3.  Data Preprocessing
+4.  Exploratory Data Analysis(EDA)
+5.  Handling Categorical as well as Numarical Data
+7.  Performing Feature Selection
+8.  Model Training 
+9.  Making pkl file
+10. Testing
+11. Production
+
 
 ## Commonds for Creating Virtual ENV
 
@@ -47,4 +60,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.git
 git push -u origin main
+```
+## For Running Flask Application
+
+```bash
+python3 -m flask run
 ```
