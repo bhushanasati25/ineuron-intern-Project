@@ -1,5 +1,17 @@
 # ineuron-intern-Project
 
+## Github Push Pull Commonds
+
+```bash
+echo "# ineuron-intern-Project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.git
+git push -u origin main
+```
+
 ## Project Title :- Flight Fare Predication
 
 ## Problem Statement
@@ -50,17 +62,6 @@ Activate the virtual environment0
 source env_name/bin/activate
 ```
 
-## Github Push Pull Commonds
-
-```bash
-echo "# ineuron-intern-Project" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.git
-git push -u origin main
-```
 ## For Running Flask Application in Local 
 
 ```bash
