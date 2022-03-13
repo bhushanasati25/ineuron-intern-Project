@@ -73,3 +73,9 @@ python3 -m flask run
 - https://ffprediction.herokuapp.com/ 
 
 - [Deployed Link](https://ffprediction.herokuapp.com/)
+
+## Output Images
+
+![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
+![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
+
