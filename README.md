@@ -62,7 +62,7 @@ Activate the virtual environment0
 source env_name/bin/activate
 ```
 
-## For Running Flask Application in Local 
+## Commonds For Running Flask Application in Local System
 
 ```bash
 python3 -m flask run
