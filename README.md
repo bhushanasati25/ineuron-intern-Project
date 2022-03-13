@@ -12,6 +12,10 @@ git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.g
 git push -u origin main
 ```
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## Project Title :- Flight Fare Predication
 
 ## Problem Statement
@@ -76,8 +80,12 @@ python3 -m flask run
 
 ## Output Images
 
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
+- [Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
+- [Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
 
-![App Screenshot](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
+## Authors
+
+- [@bhushanasati25](https://github.com/bhushanasati25)
+- [@ashamandale](https://github.com/ashamandale)
+
 
