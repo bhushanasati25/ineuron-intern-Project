@@ -66,16 +66,15 @@ Activate the virtual environment0
 source env_name/bin/activate
 ```
 
+## Tech
+
+- ![Tech](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Img/img.png)
+
 ## Commonds For Running Flask Application in Local System
 
 ```bash
 python3 -m flask run
 ```
-
-## Tech Images
-
-- ![Tech](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Img/img.png)
-
 
 ## Project Deployed Link 
 
