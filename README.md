@@ -72,4 +72,4 @@ python3 -m flask run
 
 - https://ffprediction.herokuapp.com/ 
 
-[Deployed Link](https://ffprediction.herokuapp.com/)
+- [Deployed Link](https://ffprediction.herokuapp.com/)
