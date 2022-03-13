@@ -80,8 +80,8 @@ python3 -m flask run
 
 ## Output Images
 
-- [Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
-- [Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
+- ![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
+- ![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
 
 ## Authors
 
