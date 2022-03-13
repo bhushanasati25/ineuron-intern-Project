@@ -61,7 +61,7 @@ git branch -M main
 git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.git
 git push -u origin main
 ```
-## For Running Flask Application
+## For Running Flask Application in Local 
 
 ```bash
 python3 -m flask run
