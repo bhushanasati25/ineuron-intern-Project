@@ -68,7 +68,7 @@ source env_name/bin/activate
 
 ## Tech
 
-- ![Tech](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Img/img.png)
+![Tech](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Img/img.png)
 
 ## Commonds For Running Flask Application in Local System
 
@@ -84,8 +84,8 @@ python3 -m flask run
 
 ## Output Images
 
-- ![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
-- ![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
+![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
+![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
 
 ## Authors
 
