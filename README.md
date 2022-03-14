@@ -46,6 +46,7 @@ https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 9.  Making pkl file
 10. Testing
 11. Production
+12. Deployment
 
 
 ## Commonds for Creating Virtual ENV
