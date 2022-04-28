@@ -80,8 +80,10 @@ python3 -m flask run
 ## Project Deployed Link 
 
 - https://ffprediction.herokuapp.com/ 
+- https://flightfareprediction.azurewebsites.net/
 
 - [Deployed Link](https://ffprediction.herokuapp.com/)
+- [Deployed Link](https://flightfareprediction.azurewebsites.net/)
 
 ## Output Images
 
